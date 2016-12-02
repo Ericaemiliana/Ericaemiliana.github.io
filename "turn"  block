@@ -1,0 +1,6 @@
+Blockly.JavaScript['turn'] = function(block) {
+  var text_90_degrees = block.getFieldValue('90 degrees');
+  // TODO: Assemble JavaScript into code variable.
+  var code = '...;\n';
+  return code;
+};
