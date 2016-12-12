@@ -1,3 +1,24 @@
+.nav a{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 0px solid #e7e7e7;
+    background-color: #000000;
+    content: none;
+     float: right;
+    display: block;
+    color: #666;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+
+
+}
+
+
+
 .nav ul {
     
     list-style-type: none;
