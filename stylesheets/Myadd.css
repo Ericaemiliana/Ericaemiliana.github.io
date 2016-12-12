@@ -23,29 +23,20 @@ nav a{
 .more {
     
     color: gray;
-
-
 }
 
 #blockImage {
-    
-   
     display: block;
     margin: 0 auto;
     width= 80%; height= 60%;
-
-
 }
 
+img {
+    display: block;
+    margin: 0 auto;
+}
 
-
-
-
-
-
-
-
-.nav a{
+/*.nav a{
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -59,13 +50,11 @@ nav a{
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    
-
-
-}
+}*/
 
 
 
+/*
 .nav ul {
     
     list-style-type: none;
@@ -101,9 +90,6 @@ nav a{
 .nav li a.active {
     color: white;
     background-color: #4CAF50;
-}
-img {
-    display: block;
-    margin: 0 auto;
-}
+}*/
+
 
