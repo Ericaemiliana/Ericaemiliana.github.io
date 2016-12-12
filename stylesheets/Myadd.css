@@ -34,3 +34,7 @@
     color: white;
     background-color: #4CAF50;
 }
+img {
+    display: block;
+    margin: 0 auto;
+}
