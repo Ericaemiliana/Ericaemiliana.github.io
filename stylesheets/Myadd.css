@@ -5,8 +5,10 @@
     border-radius: 15%;
     display: block;
     margin: 0 auto;
-    width: 50%;
-    float: none;
+    width: 20%;
+    height: 20%;
+    float: left;
+    
 }
 .n a{
     list-style-type: none;
