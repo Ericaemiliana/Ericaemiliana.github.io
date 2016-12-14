@@ -1,3 +1,19 @@
+div.imgB2 {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.imgB2:hover {
+    border: 1px solid #777;
+}
+
+div.imgB2 img {
+    width: 100%;
+    height: auto;
+}
+
 #name{
     color: #FFFACD;
  }
