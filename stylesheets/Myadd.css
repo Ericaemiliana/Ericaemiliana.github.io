@@ -1,7 +1,11 @@
 #name{
     color: #FFFACD;
-    
-
+ }
+#icon{
+    border-radius: 25%;
+    display: block;
+    margin: auto;
+    width: 50%;
 
 }
 .n a{
