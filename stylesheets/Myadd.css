@@ -10,6 +10,11 @@
     float: left;
     
 }
+.ajuste h2 {
+margin: -5px 0 0 0;
+}
+
+
 .n a{
     list-style-type: none;
     margin: 0;
