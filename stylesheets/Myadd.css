@@ -10,11 +10,19 @@
     float: left;
     
 }
-.ajuste {
+.ajuste h2{
 
-margin-right: 150px;
-margin-left: 80px;
+margin-right: 300px;
+margin-left: 140px;
 }
+.ajuste p {
+margin-right: 300px;
+margin-left: 140px;
+
+}
+.ajuste h3 {
+margin-right: 300px;
+margin-left: 140px;}
 
 
 .n a{
