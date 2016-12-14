@@ -10,7 +10,12 @@
     float: left;
     
 }
-.ajuste {
+p.ajuste {
+
+margin: 2cm 1cm 1cm 16cm;
+}
+
+h2.ajuste {
 
 margin: 2cm 1cm 1cm 16cm;
 }
