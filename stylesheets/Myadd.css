@@ -43,6 +43,11 @@ margin: 0cm 5cm 0cm 4cm;
     margin: 0 auto;
     width= 60%; height= 40%;
 }
+#blockImage1{
+display: block;
+    margin: 0 auto;
+    width= 40%; height= 20%;
+}
 
 img {
     display: block;
