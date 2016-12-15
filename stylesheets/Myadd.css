@@ -4,7 +4,12 @@ img.mainIma{
     left: 0px;
     top: 0px;
     z-index: -1;
-    width= 10%; height= 5%;
+    
+    
+  float: left;
+  width: 70px;
+  height: 70px;
+  margin-right: 15px;
 }
 
 h2.center{
