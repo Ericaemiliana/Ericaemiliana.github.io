@@ -1,4 +1,14 @@
 
+img.i {
+  float: right;
+  width: 70px;
+  height: 70px;
+  right: 0px;
+  top: 0px;
+    
+
+
+}
 img.mainIma{
     position: absolute;
     left: 0px;
