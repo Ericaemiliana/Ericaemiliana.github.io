@@ -4,6 +4,7 @@ img.mainIma{
     left: 0px;
     top: 0px;
     z-index: -1;
+    width= 10%; height= 5%;
 }
 
 h2.center{
