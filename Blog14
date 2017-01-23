@@ -1,0 +1,78 @@
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/Myadd.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+
+    <title>ERICA PANTOJA  by Ericaemiliana</title>
+  
+  </head>
+  <body>
+    <div class="container">
+      <section id="main_content">
+        
+        
+        <header>
+          <div>
+          <div> 
+          <div>
+            <h2 id = "name">Erica Pantoja</h2>
+            <p><small>Kennesaw State University</small></p>
+          <h3> " Hopper's Fables "</h3><p><small>CREU_Reseach_2016-2017</small><p>
+            <img class= "i" src="JavaScript_icon.png" alt="header_Image">
+            </div>
+            </div>
+            </div>
+          
+          </header>
+        
+          
+         
+         <!--<section id="downloads">
+          <a href="https://github.com/Ericaemiliana" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+        </section> -->
+     
+        
+        <div> 
+           <nav class= "n">
+           <a href="/index">Blog</a> 
+           <a href="/Contact">Contact</a>
+           <a href="/About">About</a>
+            </nav>
+         </div>
+        
+        <h2> Terminology: Snap</h2>
+        
+        <p> Snap shares many words with another bock programming languages like
+        frozen. However, Snap has many more words than other block programming languages and some of 
+        those words are not clear. For example, "Run w/continuation," "Call w/continuation," "When I start as a clone," and, 
+        "When key pressed"
+        </p>  
+        
+        <table>
+  <tr>
+    <th><img src="1.png" alt="frozenT"></th>
+    <th><img src="2.png" alt="frozenT"></th> 
+    <th><img src="3.png" alt="frozenT"></th>
+  </tr>
+      </table>
+      
+         <table>
+  <tr>
+    <th><img src="4.png" alt="frozenT"></th>
+    <th><img src="5.png" alt="frozenT"></th> 
+    <th><img src="6.png" alt="frozenT"></th>
+  </tr>
+      </table>
+      
+        
+         
+         
+         </section>
+         </div>
+         </body>
+         </html>
+        
