@@ -1,5 +1,9 @@
+
+
+
+
 ### Welcome to my research blog with CRA-W CREU program.
-My name is Erica Pantoja, I am a senior majored in computer science at Kennesaw State University and this is my Blog for Hopper’s Fables: A Mathematical Storytelling Adventure a collaborative research I am doing with three other undergraduate students in computer science. 
+My name is Erica Pantoja, I am a senior majored in computer science at Kennesaw State University and this is my Blog for Hopper’s Fables: A Mathematical Storytelling Adventure, a collaborative research I am doing with three other undergraduate students in computer science. 
 
 Hopper's Fabbles is a block programming language based on storylines and mathematical problems. Through Hopper's Fabbles storylines, students will complete interactive mathematical problems in an effort to engage students while going through the story. Hopper’s Fables is intended in aiding elementary students with learning disabilities through enhancing their math and literacy skills, while simultaneously building the student's digital fluency and developing their computational thinking skills
 
