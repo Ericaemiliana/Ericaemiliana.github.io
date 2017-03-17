@@ -1,0 +1,8 @@
+title: "ERICA PANTOJA "
+description: CREU_Reseach_2016-2017
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
